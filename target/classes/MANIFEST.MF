@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Built-By: mya
+Created-By: 11
+Main-Class: com.arthur.TheKing
+

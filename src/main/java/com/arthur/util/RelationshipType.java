@@ -1,0 +1,13 @@
+package com.arthur.util;
+
+public enum RelationshipType {
+    BROTHER, SISTER,
+    BROTHER_IN_LAW, SISTER_IN_LAW,
+    FATHER, MOTHER,
+    HUSBAND, WIFE,
+    MATERNAL_UNCLE, MATERNAL_AUNT,
+    PATERNAL_UNCLE, PATERNAL_AUNT,
+    DAUGHTER, SON,
+    NEPHEW, NIECE
+
+}
