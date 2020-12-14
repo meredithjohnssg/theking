@@ -20,6 +20,7 @@ public class TheKing {
     public static void main(String[] args) {
 
         TheKing king = new TheKing();
+        System.out.println("The King!");
         king.processFamily(args[0]);
     }
 
